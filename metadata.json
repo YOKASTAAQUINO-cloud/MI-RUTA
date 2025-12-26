@@ -1,0 +1,7 @@
+{
+  "name": "Mi Ruta by Titans Stars Team",
+  "description": "Un centro de productividad impulsado por IA para que mujeres emprendedoras optimicen sus actividades generadoras de ingresos, rastreen metas financieras y dominen su mentalidad.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
