@@ -15,9 +15,9 @@ const Navigation = () => {
     { path: '/', label: 'INICIO', icon: '🏛️' },
     { path: '/planner', label: 'AGENDA', icon: '📜' },
     { path: '/strategy', label: 'ESTRATEGIA', icon: '📅' },
-    { path: '/coaching', label: 'MENTORÍA', icon: '✨' },
+    { path: '/coaching', label: 'MENTOR', icon: '✨' },
     { path: '/content', label: 'ESTUDIO', icon: '🖋️' },
-    { path: '/followups', label: 'CÍRCULO', icon: '💎' },
+    { path: '/followups', label: 'SEGUIMIENTO', icon: '💎' },
     { path: '/income', label: 'FORTUNA', icon: '💰' },
   ];
 
